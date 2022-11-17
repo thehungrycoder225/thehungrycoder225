@@ -6,6 +6,7 @@
   -📖 Feeding my curiosity
   -🎨 Art 
   -💻<coding/>
+  -🔨Building Plastic Models
 - 🌱 I’m currently learning blockchain and web3 development, three.js to take my skills a step higher, tensorflow cause why not?
 - 💞️ I’m looking to collaborate on creating a web framework that can have flexibility on UI Trends and API's using The Graph
 - 📫 How to reach me ... *Underdevelopment*
